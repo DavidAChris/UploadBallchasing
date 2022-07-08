@@ -1,0 +1,11 @@
+Ballchasing:
+  Pre_Season: pre-season-f7vnyq14x7
+  Reg_Season: regular-season-ocolqigq4r
+  Playoffs: playoffs-vl3xfha7eo
+  Group_Path: https://ballchasing.com/api/v2/upload?visibility=public&group=
+  Replay_Call: https://ballchasing.com/api/replays/{}
+  Replay_Download_Path: D:/_GIT/Upload_Ballchasing/Replays
+  Player_Identification: by-id
+  Team_Identification: by-player-clusters
+  headers:
+    Authorization: <YOUR TOKEN>
